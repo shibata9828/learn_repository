@@ -1,0 +1,43 @@
+{
+  // IntelliSense を使用して利用可能な属性を学べます。
+  // 既存の属性の説明をホバーして表示します。
+  // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Sample1_05_1",
+      "request": "launch",
+      "mainClass": "java.environment.Sample1_05_1",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sample1_05_1",
+      "request": "launch",
+      "mainClass": "Sample1_05_1",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1_04_1",
+      "request": "launch",
+      "mainClass": "Ex1_04_1",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sample1_04_1",
+      "request": "launch",
+      "mainClass": "Sample1_04_1",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "pwa-chrome",
+      "request": "launch",
+      "name": "Launch Chrome against localhost",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
