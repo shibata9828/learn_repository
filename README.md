@@ -1,1 +1,2 @@
 # learn_repository
+お勉強リポジトリです
