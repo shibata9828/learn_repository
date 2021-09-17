@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Ex1_10_1",
+      "request": "launch",
+      "mainClass": "Ex1_10_1",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
       "name": "Launch Sample1_05_1",
       "request": "launch",
       "mainClass": "java.environment.Sample1_05_1",
