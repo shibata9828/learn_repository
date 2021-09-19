@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Sample1_06_4",
+      "request": "launch",
+      "mainClass": "Sample1_06_4",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sample1_06_3",
+      "request": "launch",
+      "mainClass": "Sample1_06_3",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sample1_06_2",
+      "request": "launch",
+      "mainClass": "Sample1_06_2",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Answer6",
+      "request": "launch",
+      "mainClass": "Answer6",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
       "name": "Launch Ex1_13_2",
       "request": "launch",
       "mainClass": "Ex1_13_2",
