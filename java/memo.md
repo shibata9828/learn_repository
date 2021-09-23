@@ -40,3 +40,35 @@ print()
 //改行したい時
 println()
 ```
+
+### ランダムなサイコロの目を取得する
+
+```java
+/*
+`Math.random()`は ０<= x <１ のランダムな数値を取得する
+それを６倍することで ０<= x< 5 のランダムな数値を取得する
+`(int)`でキャストすることで整数にする
+1をプラスすることで 1 <= x <= 6 の整数が取得できる
+*/
+
+1 + (int)( Math.random() * 6.0 )
+
+```
+
+### while文のスコープに気を付ける
+
+`while文`の中で変数を定義しない
+
+```java
+//do-while文の中で変数numを定義しているのでwhileの条件の中のnumまでスコープが届かずエラーになる
+public static void main(String[] args) {
+
+  do {
+    int num = 1 + (int) (Math.random() * 6.0);
+    System.out.println(num);
+
+  } while (num < 6);
+  System.out.println("「６が出たので処理を終了します」");
+}
+
+```
