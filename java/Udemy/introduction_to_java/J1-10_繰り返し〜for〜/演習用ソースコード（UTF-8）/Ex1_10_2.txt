@@ -12,3 +12,4 @@
 		System.out.println(display);
 	}
 
+	A.九九の表を作る

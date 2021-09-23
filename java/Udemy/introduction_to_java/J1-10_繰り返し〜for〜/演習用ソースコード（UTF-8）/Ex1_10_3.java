@@ -14,22 +14,14 @@
 
 ----------------------------------------------------*/
 class Ex1_10_3 {
-	public static void main (String[] args) {
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	public static void main(String[] args) {
+		for (int i = 0; i <= 9; i++) {
+			String str1 = String.valueOf(i);
+			for (int j = 0; j <= 9; j++) {
+				String str2 = String.valueOf(j);
+				System.out.print(str1 + str2 + " ");
+			}
+			System.out.println("");
+		}
 	}
 }

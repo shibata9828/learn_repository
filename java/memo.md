@@ -30,3 +30,13 @@ URL：https://shino-life-blog.com/java-error-invalid-font-num/
 ```
 
 上では`args` でコマンドライン引数を渡している
+
+### 改行メソッド
+
+```java
+//改行したくない時
+print()
+
+//改行したい時
+println()
+```

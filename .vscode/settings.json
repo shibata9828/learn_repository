@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "java/environment",
+    "java/Udemy/introduction_to_java/J1-08_配列と参照型/演習用ソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-07_データの型変換/演習用ソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-06_演算子/サンプルソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-06_演算子/Answer",
@@ -9,6 +10,6 @@
     "java/Udemy/introduction_to_java/(解答例)Ex1_10/UTF-8版",
     "java/Udemy/introduction_to_java/(解答例)Ex1_07",
     "java/Udemy/introduction_to_java/(解答例)Ex1_06",
-    "java/Udemy/introduction_to_java/J1-08_配列と参照型/演習用ソースコード（UTF-8）"
+    "java/Udemy/introduction_to_java/J1-10_繰り返し〜for〜/演習用ソースコード（UTF-8）"
   ]
 }
