@@ -6,6 +6,22 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Ex1_12_2",
+      "request": "launch",
+      "mainClass": "Ex1_12_2",
+      "projectName": "learn_repository_4828d982",
+      "args": "0"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1_12_1",
+      "request": "launch",
+      "mainClass": "Ex1_12_1",
+      "projectName": "learn_repository_4828d982",
+      "args": "7"
+    },
+    {
+      "type": "java",
       "name": "Launch Ex1_11_2",
       "request": "launch",
       "mainClass": "Ex1_11_2",

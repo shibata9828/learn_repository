@@ -13,13 +13,22 @@
   - 点数の数字が100だった場合のみ「満点だったので宿題免除です！！」と最後に表示する
 ----------------------------------------------------*/
 class Ex1_12_1 {
-	public static void main (String[] args) {
-		
-		
-		
-		
-		
-		
-		
-	}
+  public static void main(String[] args) {
+
+    int score = Integer.parseInt(args[0]);
+
+    if (score >= 0 && score <= 59) {
+      System.out.println("「赤点です！」");
+    } else if (score >= 60 && score <= 79) {
+      System.out.println("「普通です！」");
+    } else if (score >= 80 && score <= 99) {
+      System.out.println("「優秀です！」");
+    } else if (score == 100) {
+      System.out.println("「優秀です！」");
+      System.out.println("「満点だったので宿題免除です！！");
+    } else {
+      System.out.println("「不正な点数です」");
+    }
+
+  }
 }
