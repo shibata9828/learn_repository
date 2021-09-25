@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "java/environment",
+    "java/Udemy/introduction_to_java/J1-12_条件分岐〜if〜/演習用ソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-11_繰り返し〜while〜/演習用ソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-10_繰り返し〜for〜/演習用ソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-08_配列と参照型/演習用ソースコード（UTF-8）",
@@ -12,6 +13,6 @@
     "java/Udemy/introduction_to_java/(解答例)Ex1_10/UTF-8版",
     "java/Udemy/introduction_to_java/(解答例)Ex1_07",
     "java/Udemy/introduction_to_java/(解答例)Ex1_06",
-    "java/Udemy/introduction_to_java/J1-12_条件分岐〜if〜/演習用ソースコード（UTF-8）"
+    "java/Udemy/introduction_to_java/J1-13_その他の制御構文/演習用ソースコード（UTF-8）"
   ]
 }
