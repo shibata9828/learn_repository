@@ -4,7 +4,34 @@
   // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
-    
+    {
+      "type": "java",
+      "name": "Launch Ex1_16_1a",
+      "request": "launch",
+      "mainClass": "ex.Ex1_16_1a",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1_16_1a",
+      "request": "launch",
+      "mainClass": "Ex1_16_1a",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1_15_2",
+      "request": "launch",
+      "mainClass": "Ex1_15_2",
+      "projectName": "learn_repository_4828d982"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1_14_2",
+      "request": "launch",
+      "mainClass": "Ex1_14_2",
+      "projectName": "learn_repository_4828d982"
+    },
     {
       "type": "java",
       "name": "Launch Ex1_12_2",

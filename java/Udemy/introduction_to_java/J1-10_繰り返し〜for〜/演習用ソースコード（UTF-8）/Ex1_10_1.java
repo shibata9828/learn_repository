@@ -1,4 +1,3 @@
-import jdk.nashorn.internal.ir.Module.ImportEntry;
 
 /*-< 演習：Ex1_10_1 >---------------------------------
 コマンドライン引数として数字を1つ受け取り、その数字の数だけ
