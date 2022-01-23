@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "java/swing",
     "java/environment",
     "java/Udemy/introduction_to_java/J1-13_その他の制御構文/演習用ソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-12_条件分岐〜if〜/演習用ソースコード（UTF-8）",
@@ -10,13 +11,10 @@
     "java/Udemy/introduction_to_java/J1-06_演算子/サンプルソースコード（UTF-8）",
     "java/Udemy/introduction_to_java/J1-06_演算子/Answer",
     "java/Udemy/introduction_to_java/J1-05_変数の扱い,定数,型/サンプルソースコード（UTF-8）",
-    "java/Udemy/introduction_to_java/(解答例)Ex1_16/UTF-8版",
     "java/Udemy/introduction_to_java/(解答例)Ex1_15/UTF-8版",
     "java/Udemy/introduction_to_java/(解答例)Ex1_14/UTF-8版",
-    "java/Udemy/introduction_to_java/(解答例)Ex1_13/UTF-8版",
-    "java/Udemy/introduction_to_java/(解答例)Ex1_10/UTF-8版",
     "java/Udemy/introduction_to_java/(解答例)Ex1_07",
     "java/Udemy/introduction_to_java/(解答例)Ex1_06",
-    "java/Udemy/introduction_to_java/(解答例)Ex1_16"
+    "java"
   ]
 }
